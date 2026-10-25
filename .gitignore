@@ -1,0 +1,12 @@
+# 构建产物
+target/
+out/
+*.class
+
+# 运行产物（每次运行都会重新生成，不要提交）
+output/
+
+# IDE
+.idea/
+*.iml
+.vscode/
